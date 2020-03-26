@@ -5,11 +5,28 @@ html,body{
 body{
 	width: 100%;
 	height: 100%;
-	background-color: rgba(2, 20, 147, 1) ;
+	background-color: rgba(0, 188, 212, 0.7) ;
 	font-family: New Century Schoolbook, TeX Gyre Schola, serif, sans-serif;
 	font-size: 20px;
+	color: #dcedc8;
 }
-#IDL{
-	font-size: 100px;
-	
+#ILD{
+	background-color: rgba(2,125, 111, 0.6);
+	margin-top: 5%;
+	width: 400px;
+	box-shadow: 5px 8px 9px 0px #212121;
+}
+input{
+	border-left: 0;
+	border-top: 0;
+	border-right: 0;
+	border-radius: 5px;
+	 }
+button {
+
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif, sans-serif;
+	font-size: 21px;
+	height: 30px;
+	width: 100%;
+	border-radius: 5px;
 }
