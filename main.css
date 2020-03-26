@@ -5,18 +5,11 @@ html,body{
 body{
 	width: 100%;
 	height: 100%;
-	background-color: rgba(255, 20, 147, 1) ;
+	background-color: rgba(2, 20, 147, 1) ;
 	font-family: New Century Schoolbook, TeX Gyre Schola, serif, sans-serif;
 	font-size: 20px;
 }
 #IDL{
 	font-size: 100px;
-	font-family: Tahoma;
-}
-#RG{
-	font-family: Tahoma;
-}
-#BT{
-	background: Yellow;
-	font-size: 50px;
+	
 }
